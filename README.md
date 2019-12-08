@@ -51,9 +51,7 @@ Text Editor                               : Visual Studio 2019
 
 Bahasa Pemrograman                        : C#
 
-Stack                                     : Unity
-
-Support by Codemonkey
+Stack                                     : Codemonkey Asset, Adobe Ilustrator, Adobe Photoshop, Freepik
 
 **Link Video Gameplay:**
 [https://youtu.be/7wwHWE-p2Bk](https://youtu.be/7wwHWE-p2Bk)
