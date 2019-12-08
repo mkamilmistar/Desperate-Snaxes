@@ -1,7 +1,5 @@
 **Grafika Komputer (KOM300)**
-
 **Departemen Ilmu Komputer, Institut Pertanian Bogor**
-
 **LAPORAN PROJECT AKHIR**
 
 | Kelompok 6 | Waktu Praktikum: Rabu, 10.00 - 12.00 |
