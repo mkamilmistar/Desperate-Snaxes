@@ -41,8 +41,11 @@ Aplikasi Game yang kami rancang pada Tugas Akhir Grafika Komputer ini bernama &q
 
 **E.Teknologi atau Stack yang Digunakan**
 Teknologi                                 : Unity 2018.4.12.f1
+
 Text Editor                               : Visual Studio 2019
+
 Bahasa Pemrograman                        : C#
+
 Stack                                     : Unity
 
 **Link Video Gameplay:**
