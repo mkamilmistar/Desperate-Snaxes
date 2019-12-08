@@ -86,6 +86,8 @@ public class Snake : MonoBehaviour {
         gridMoveTimer += Time.deltaTime;
         if (gridMoveTimer >= gridMoveTimerMax) {
             gridMoveTimer -= gridMoveTimerMax;
+            
+            
 
             SnakeMovePosition previousSnakeMovePosition = null;
             if(snakeMovePositionList.Count > 0)
