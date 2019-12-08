@@ -26,7 +26,7 @@ Aplikasi Game yang kami rancang pada Tugas Akhir Grafika Komputer ini bernama &q
   <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70386237-f0f60f80-19c9-11ea-941a-b2233eee1c40.png">
   <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70386238-f18ea600-19c9-11ea-95a2-52ae361f96ff.png">
   <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70386239-f18ea600-19c9-11ea-96c8-7d1d2891e877.png">
-  <img width="480" height="260" src="(https://user-images.githubusercontent.com/39584996/70386240-f2273c80-19c9-11ea-913c-a35fdd1bfebb.png">
+  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70386240-f2273c80-19c9-11ea-913c-a35fdd1bfebb.png">
 </p>
 
 **Tata Cara Bermain :**
