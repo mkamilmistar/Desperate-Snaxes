@@ -14,13 +14,13 @@
 
 Aplikasi Game yang kami rancang pada Tugas Akhir Grafika Komputer ini bernama &quot;_Desperate Snaxe_&quot;. Kami merancang game ini menggunakan aplikasi Unity. Suatu aplikasi yang digunakan untuk mengembangkan game multiplatform yang didesain agar mudah digunakan. Unity yang kami gunakan adalah versi 4.12.f1 dengan konsep dua dimensi.
 
-**B.Nama Pengembang dan Pembagian Tugas**
+**B. Nama Pengembang dan Pembagian Tugas**
 
 1. Ryvan Arnandha Putra (Programmer)
 2. Kamil (Programmer)
 3. Abdan Syakuro (Asset Designer)
 
-**C.Screenshot Game**
+**C. Screenshot Game**
 <p align="center">
   <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70386236-f0f60f80-19c9-11ea-8173-cdcaba3cb883.png">
   <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70386237-f0f60f80-19c9-11ea-941a-b2233eee1c40.png">
@@ -45,7 +45,7 @@ Aplikasi Game yang kami rancang pada Tugas Akhir Grafika Komputer ini bernama &q
 10. Untuk keluar, pemain dapat menekan button &quot;Quit&quot; di main menu.
 
 
-**E.Teknologi atau Stack yang Digunakan**
+**D. Teknologi atau Stack yang Digunakan**
 
 Teknologi                                 : Unity 2018.4.12.f1
 
@@ -55,6 +55,7 @@ Bahasa Pemrograman                        : C#
 
 Stack                                     : Unity
 
+Support by Codemonkey
 
 **Link Video Gameplay:**
 [https://youtu.be/7wwHWE-p2Bk](https://youtu.be/7wwHWE-p2Bk)
