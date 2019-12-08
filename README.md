@@ -39,6 +39,7 @@ Aplikasi Game yang kami rancang pada Tugas Akhir Grafika Komputer ini bernama &q
 9. Untuk berhenti sejenak, pemain dapat menekan tombol &quot;Escape&quot; (_Gambar 4)_.
 10. Untuk keluar, pemain dapat menekan button &quot;Quit&quot; di main menu.
 
+
 **E.Teknologi atau Stack yang Digunakan**
 Teknologi                                 : Unity 2018.4.12.f1
 
@@ -47,6 +48,7 @@ Text Editor                               : Visual Studio 2019
 Bahasa Pemrograman                        : C#
 
 Stack                                     : Unity
+
 
 **Link Video Gameplay:**
 [https://youtu.be/7wwHWE-p2Bk](https://youtu.be/7wwHWE-p2Bk)
