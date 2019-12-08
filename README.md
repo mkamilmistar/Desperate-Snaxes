@@ -10,7 +10,7 @@
 
 **Desperate Snaxe**
 
-**A.Pendahuluan **
+**A. Pendahuluan**
 
 Aplikasi Game yang kami rancang pada Tugas Akhir Grafika Komputer ini bernama &quot;_Desperate Snaxe_&quot;. Kami merancang game ini menggunakan aplikasi Unity. Suatu aplikasi yang digunakan untuk mengembangkan game multiplatform yang didesain agar mudah digunakan. Unity yang kami gunakan adalah versi 4.12.f1 dengan konsep dua dimensi.
 
