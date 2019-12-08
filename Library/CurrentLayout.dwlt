@@ -111,10 +111,10 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 645
-  m_MinSize: {x: 709, y: 498}
-  m_MaxSize: {x: 18004, y: 14048}
+  m_MinSize: {x: 711, y: 498}
+  m_MaxSize: {x: 18006, y: 14048}
   vertical: 0
-  controlID: 14947
+  controlID: 6216
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 434, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 1
-  controlID: 14948
+  controlID: 6217
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -192,7 +192,7 @@ MonoBehaviour:
   m_MinSize: {x: 434, y: 274}
   m_MaxSize: {x: 14004, y: 10024}
   vertical: 0
-  controlID: 14884
+  controlID: 6278
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -384,9 +384,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.9253572, y: 2.7917523, z: -0.6147361}
+    m_Target: {x: 964.7412, y: 43.61631, z: 969.0546}
     speed: 2
-    m_Value: {x: 0.9253572, y: 2.7917523, z: -0.6147361}
+    m_Value: {x: 964.7412, y: 43.61631, z: 969.0546}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -418,9 +418,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: -1}
   m_Size:
-    m_Target: 12.902871
+    m_Target: 204.47183
     speed: 2
-    m_Value: 12.902871
+    m_Value: 204.47183
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -486,10 +486,10 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: e0acffff4cc7ffff5ac7ffff8ec7ffff9cc7ffffead3ffff7cdbffff28e5ffffd6fbffff8a0c0000a60c0000ac0c0000b00c0000d00c0000f20c0000f60c0000503d00008a3e0000163f00001c3f0000463f00006e3f0000723f00001c590000
+      scrollPos: {x: 0, y: 35}
+      m_SelectedIDs: eeceffff18080000
+      m_LastClickedID: -12562
+      m_ExpandedIDs: 34e3ffff74e6ffffa0e7ffffcae7ffffa8e9ffffb2e9ffff52f3ffff52f4ffff60f4ffff34f5ffff7af7ffff84f7ffff5efbffff68fbffffd6fbffffaa2b0000f62b0000422c0000782c0000503a0000c4490000c8550000965a000032630000626300007663000096630000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -551,19 +551,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Textures
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Textures
+  - Assets/Scripts
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\MilNoMercy\Documents\Desperate Snaxe\Desperate-Snaxes
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b60a0000
-    m_LastClickedID: 2742
+    m_SelectedIDs: 7e0b0000
+    m_LastClickedID: 2942
     m_ExpandedIDs: 00000000ae090000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

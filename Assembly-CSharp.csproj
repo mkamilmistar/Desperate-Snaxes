@@ -86,6 +86,7 @@
     <Compile Include="Assets\Scripts\LoaderCallback.cs" />
     <Compile Include="Assets\Scripts\MainMenuWindow.cs" />
     <Compile Include="Assets\Scripts\PauseWindow.cs" />
+    <Compile Include="Assets\Scripts\Score.cs" />
     <Compile Include="Assets\Scripts\ScoreWindow.cs" />
     <Compile Include="Assets\Scripts\Snake.cs" />
     <Compile Include="Assets\Scripts\SoundManager.cs" />

@@ -86,8 +86,9 @@ public class Snake : MonoBehaviour {
         gridMoveTimer += Time.deltaTime;
         if (gridMoveTimer >= gridMoveTimerMax) {
             gridMoveTimer -= gridMoveTimerMax;
-            
-            
+
+
+            SoundManager.PlaySound(SoundManager.Sound.SnakeMove);
 
             SnakeMovePosition previousSnakeMovePosition = null;
             if(snakeMovePositionList.Count > 0)
@@ -115,6 +116,7 @@ public class Snake : MonoBehaviour {
             {
                 snakeBodySize++;
                 CreateSnakeBodyPart();
+                SoundManager.PlaySound(SoundManager.Sound.SnakeEat);
             }
 
             if (snakeMovePositionList.Count >= snakeBodySize + 1){
@@ -131,6 +133,7 @@ public class Snake : MonoBehaviour {
                     //CMDebug.TextPopup("DEAD!", transform.position);
                     state = State.Dead;
                     GameHandler.SnakeDied();
+                    SoundManager.PlaySound(SoundManager.Sound.SnakeDie);
                 }
             }
 
