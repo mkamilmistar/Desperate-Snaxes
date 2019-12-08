@@ -4,7 +4,9 @@
 
 | Kelompok 6 | Waktu Praktikum: Rabu, 10.00 - 12.00 |
 | --- | --- |
-| 1. Ryvan Arnandha Putra (G64170007) 2. Kamil (G64170019) 3. Abdan Syakuro (G64170101) | Nama Asisten: Iyang Aneka Wibowo (G64160030)  |
+| 1. Ryvan Arnandha Putra (G64170007) 
+2. Kamil (G64170019) 
+3. Abdan Syakuro (G64170101) | Nama Asisten: Iyang Aneka Wibowo (G64160030)  |
 
 ## Desperate Snaxe
 
