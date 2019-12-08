@@ -21,7 +21,11 @@ Aplikasi Game yang kami rancang pada Tugas Akhir Grafika Komputer ini bernama &q
 3. Abdan Syakuro (Asset Designer)
 
 **C.Screenshot Game**
-
+![Screenshot (36)](https://user-images.githubusercontent.com/39584996/70386236-f0f60f80-19c9-11ea-8173-cdcaba3cb883.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/39584996/70386237-f0f60f80-19c9-11ea-941a-b2233eee1c40.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/39584996/70386238-f18ea600-19c9-11ea-95a2-52ae361f96ff.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/39584996/70386239-f18ea600-19c9-11ea-96c8-7d1d2891e877.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/39584996/70386240-f2273c80-19c9-11ea-913c-a35fdd1bfebb.png)
 
 
 **Tata Cara Bermain :**
