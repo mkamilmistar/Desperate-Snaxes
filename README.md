@@ -15,7 +15,7 @@ Aplikasi Game yang kami rancang pada Tugas Akhir Grafika Komputer ini bernama &q
 ### B. Nama Pengembang dan Pembagian Tugas
 
 1. Ryvan Arnandha Putra (Programmer)
-2. Kamil (Programmer)
+2. M. Kamil (Programmer)
 3. Abdan Syakuro (Asset Designer)
 
 ### C. Screenshot Game
