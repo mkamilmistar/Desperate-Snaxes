@@ -54,7 +54,7 @@ Bahasa Pemrograman                        : C#
 Stack                                     : Codemonkey Asset, Adobe Ilustrator, Adobe Photoshop, Freepik
 
 **Link Video Gameplay:**
-[https://www.youtube.com/watch?v=1Eja8Us66go](https://youtu.be/7wwHWE-p2Bk)
+[https://www.youtube.com/watch?v=1Eja8Us66go](https://youtu.be/1Eja8Us66go)
 
 **Link Asset Github:**
 [https://github.com/mkamilmistar/Desperate-Snaxes](https://github.com/mkamilmistar/Desperate-Snaxes)
