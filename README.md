@@ -20,11 +20,11 @@ Aplikasi Game yang kami rancang pada Tugas Akhir Grafika Komputer ini bernama &q
 
 ### C. Screenshot Game
 <p align="center">
-  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70386236-f0f60f80-19c9-11ea-8173-cdcaba3cb883.png">
-  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70386237-f0f60f80-19c9-11ea-941a-b2233eee1c40.png">
-  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70386238-f18ea600-19c9-11ea-95a2-52ae361f96ff.png">
-  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70386239-f18ea600-19c9-11ea-96c8-7d1d2891e877.png">
-  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70386240-f2273c80-19c9-11ea-913c-a35fdd1bfebb.png">
+  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70387657-53570c00-19da-11ea-9beb-aab740b4eb3a.png">
+  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70387658-53570c00-19da-11ea-9b64-e596e17bc1d1.png">
+  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70387659-53efa280-19da-11ea-9db4-5940d39c1ab7.png">
+  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70387660-53efa280-19da-11ea-9b9b-ed5fc6b8ecd0.png">
+  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70387661-53efa280-19da-11ea-857e-84e4abb40291.png">
 </p>
 
 #### Tata Cara Bermain :
