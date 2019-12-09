@@ -7,7 +7,7 @@
 | 1. Ryvan Arnandha Putra (G64170007) 2. Kamil (G64170019) 3. Abdan Syakuro (G64170101) | Nama Asisten: Iyang Aneka Wibowo (G64160030)  |
 
 ## Desperate Snaxe
-
+ 
 ### A. Pendahuluan
 
 Aplikasi Game yang kami rancang pada Tugas Akhir Grafika Komputer ini bernama &quot;_Desperate Snaxe_&quot;. Kami merancang game ini menggunakan aplikasi Unity. Suatu aplikasi yang digunakan untuk mengembangkan game multiplatform yang didesain agar mudah digunakan. Unity yang kami gunakan adalah versi 4.12.f1 dengan konsep dua dimensi.
@@ -20,11 +20,11 @@ Aplikasi Game yang kami rancang pada Tugas Akhir Grafika Komputer ini bernama &q
 
 ### C. Screenshot Game
 <p align="center">
-  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70386236-f0f60f80-19c9-11ea-8173-cdcaba3cb883.png">
-  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70386237-f0f60f80-19c9-11ea-941a-b2233eee1c40.png">
-  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70386238-f18ea600-19c9-11ea-95a2-52ae361f96ff.png">
-  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70386239-f18ea600-19c9-11ea-96c8-7d1d2891e877.png">
-  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70386240-f2273c80-19c9-11ea-913c-a35fdd1bfebb.png">
+  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70387657-53570c00-19da-11ea-9beb-aab740b4eb3a.png">
+  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70387658-53570c00-19da-11ea-9b64-e596e17bc1d1.png">
+  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70387659-53efa280-19da-11ea-9db4-5940d39c1ab7.png">
+  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70387660-53efa280-19da-11ea-9b9b-ed5fc6b8ecd0.png">
+  <img width="480" height="260" src="https://user-images.githubusercontent.com/39584996/70387661-53efa280-19da-11ea-857e-84e4abb40291.png">
 </p>
 
 #### Tata Cara Bermain :
@@ -51,12 +51,10 @@ Text Editor                               : Visual Studio 2019
 
 Bahasa Pemrograman                        : C#
 
-Stack                                     : Unity
-
-Support by Codemonkey
+Stack                                     : Codemonkey Asset, Adobe Ilustrator, Adobe Photoshop, Freepik
 
 **Link Video Gameplay:**
-[https://youtu.be/7wwHWE-p2Bk](https://youtu.be/7wwHWE-p2Bk)
+[https://www.youtube.com/watch?v=1Eja8Us66go](https://youtu.be/1Eja8Us66go)
 
 **Link Asset Github:**
 [https://github.com/mkamilmistar/Desperate-Snaxes](https://github.com/mkamilmistar/Desperate-Snaxes)
