@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/MilNoMercy/Documents/Desperate Snaxe/Jadi/Snake Coba.exe
+C:/Users/MilNoMercy/Documents/Desperate Snaxe/Exe File/Snake Coba.exe
 SceneListBegin?
 Assets/Scenes/MainMenu.unity
 Assets/Scenes/GameScene.unity
@@ -118,7 +118,7 @@ ad9173d3a69d99153f38ed4b62226129 UnityEngine.Networking.dll:UnityEngine.Networki
 9b895dcabbc1faf095c000c32d471fd0 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 5887ef1bc706b22b773d253fd443ceef UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
-bc3736dce79dc5ed5a807fd5af92035f Assembly-CSharp.dll:.GameAssets
+2edad93bf8d0dfaf7eedaaca724b7f85 Assembly-CSharp.dll:.GameAssets
 303ad70ce203ad874efe2965d0fbcff9 Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsEventTracker
 7fb9de8dcf73854b6b328eca1f7a6e6d Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsTracker
 b8a5e8091ab0b8861d2add371082c5e0 Unity.TextMeshPro.dll:TMPro.TMP_SpriteAsset

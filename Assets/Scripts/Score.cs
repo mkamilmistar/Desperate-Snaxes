@@ -7,7 +7,7 @@ using CodeMonkey.Utils;
 public static class Score
 {
     public static event EventHandler OnHighscoreChanged;
-    private static int score;
+    public static int score;
     public static void InitializeStatic()
     {
         OnHighscoreChanged = null;
@@ -23,6 +23,7 @@ public static class Score
     {
         score += 100;
     }
+
     public static int GetHighScore()
     {
         return PlayerPrefs.GetInt("highscore", 0);
@@ -46,5 +47,10 @@ public static class Score
         {
             return false;
         }
+    }
+
+    internal static int GetScore(object score)
+    {
+        throw new NotImplementedException();
     }
 }

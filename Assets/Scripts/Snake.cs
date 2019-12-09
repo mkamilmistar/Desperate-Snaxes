@@ -27,6 +27,7 @@ public class Snake : MonoBehaviour {
     private int snakeBodySize;
     private List<SnakeMovePosition> snakeMovePositionList;
     private List<SnakeBodyPart> snakeBodyPartList;
+    private float fixedDeltaTime;
      
     public void Setup(LevelGrid levelGrid) {
         this.levelGrid = levelGrid;
@@ -123,6 +124,26 @@ public class Snake : MonoBehaviour {
                 snakeMovePositionList.RemoveAt(snakeMovePositionList.Count - 1);
             }
 
+            bool snakeAtePotion = levelGrid.TrySnakeEatPotion(gridPosition);
+            if (snakeAtePotion)
+            {
+                snakeBodySize++;
+                CreateSnakeBodyPart();
+                if (Time.timeScale == 1.0f)
+                {
+                    Time.timeScale = 0.7f;
+                    gridMoveTimerMax -= 1000f;
+                }
+                else { 
+                    Time.timeScale = 1.0f;
+                }
+                Time.fixedDeltaTime = this.fixedDeltaTime * Time.timeScale;
+                 gridMoveTimerMax = .1f;
+
+                
+                SoundManager.PlaySound(SoundManager.Sound.SnakeEat);
+            }
+
             UpdateSnakeBodyParts();
 
             foreach (SnakeBodyPart snakeBodyPart in snakeBodyPartList)
@@ -156,6 +177,7 @@ public class Snake : MonoBehaviour {
     {
         snakeBodyPartList.Add(new SnakeBodyPart(snakeBodyPartList.Count));
     }
+
     private void UpdateSnakeBodyParts()
     {
         for (int i = 0; i < snakeBodyPartList.Count; i++){
@@ -182,8 +204,6 @@ public class Snake : MonoBehaviour {
         }
         return gridPositionList;
     }
-
-
 
     private class SnakeBodyPart
     {
@@ -233,9 +253,6 @@ public class Snake : MonoBehaviour {
             return snakeMovePosition.GetGridPosition();
         }
     }
-
-
-
 
     private class SnakeMovePosition
     {

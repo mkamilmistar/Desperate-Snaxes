@@ -6,10 +6,13 @@ using CodeMonkey;
 public class LevelGrid {
 
     private Vector2Int foodGridPosition;
+    private Vector2Int potionGridPosition;
     private GameObject foodGameObject;
+    private GameObject potionGameObject;
     private int width;
     private int height;
     private Snake snake;
+    
 
     public LevelGrid(int width, int height) {
         this.width = width;
@@ -24,6 +27,7 @@ public class LevelGrid {
             //foodGameObject = new GameObject("Food", typeof(SpriteRenderer));
             //foodGameObject.GetComponent<SpriteRenderer>().sprite = GameAssets.i.foodSprite;
         }
+        SpawnPotion();
         SpawnFood();
 
     }
@@ -38,10 +42,39 @@ public class LevelGrid {
         foodGameObject.transform.position = new Vector3(foodGridPosition.x, foodGridPosition.y);
     }
 
+    
+
+    private void SpawnPotion()
+    {
+        do{
+            potionGridPosition = new Vector2Int(Random.Range(0, width), Random.Range(0, height));
+        } while(snake.GetFullSnakeGridPositionList().IndexOf(potionGridPosition) != -1);
+              
+        potionGameObject = new GameObject("Potion", typeof(SpriteRenderer));
+        potionGameObject.GetComponent<SpriteRenderer>().sprite = GameAssets.i.potionSprite;
+        potionGameObject.transform.position = new Vector3(potionGridPosition.x, potionGridPosition.y);
+        
+    }
+
     public bool TrySnakeEatFood(Vector2Int snakeGridPosition) {
         if (snakeGridPosition == foodGridPosition) {
             Object.Destroy(foodGameObject);
             SpawnFood();
+            Score.AddScore();
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+
+    public bool TrySnakeEatPotion(Vector2Int snakeGridPosition)
+    {
+        if(snakeGridPosition == potionGridPosition)
+        {
+            Object.Destroy(potionGameObject);
+            SpawnPotion();
             Score.AddScore();
             return true;
         }
